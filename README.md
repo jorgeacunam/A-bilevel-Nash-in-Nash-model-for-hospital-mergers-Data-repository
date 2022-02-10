@@ -2,7 +2,7 @@
 Dataset to run the baseline scenario and instructions to generate the alternative scenarios.
 
 ## Tables
-The excel file attached to this repository contains five different tables representing the backbone to replicate the numerical analysis presented in the manuscript. 
+The excel file attached to this repository contains five different tables representing the backbone to replicate the analysis presented in the manuscript. 
 
 ## Data
 The following is the list of tables and descriptions:
