@@ -12,17 +12,20 @@ Hospitals data (TABLE 1):
   2) Quality of care (score).
   3) Distance to patients of purchasing power class alpha (score).
   4) Set of health systems. 1 if the hospital belongs to the health system, 0 otherwise.
-  5) Cost of treating a patient with diagnosis k. Two datasets need to be purchased (SID and CCR) https://www.hcup-us.ahrq.gov/ 
+  5) Cost of treating a patient with diagnosis k. Two datasets need to be purchased (SID and CCR)\
+   https://www.hcup-us.ahrq.gov/db/state/siddbdocumentation.jsp \
+   https://www.hcup-us.ahrq.gov/db/ccr/costtocharge.jsp
   
 Diagnosis data (TABLE 2):  
   1) Severity weight applied to reimbursement rates (w_k).
-  2) Probability of needing treatment with diagnosis k. One dataset needs to be purchased (SID) https://www.hcup-us.ahrq.gov/ 
+  2) Probability of needing treatment with diagnosis k. One dataset needs to be purchased (SID)\
+   https://www.hcup-us.ahrq.gov/db/state/siddbdocumentation.jsp
   
 Metal data (TABLE 3):  
   1) Maximum acceptable policy price per metal level. 
 
 Patients data (TABLE 4):  
-  1) Demand of customers (1.2 million) in Hillsborough County per purchasing power class alpha. One dataset needs to be purchased (SID) https://www.hcup-us.ahrq.gov/ 
+  1) Demand of customers (1.2 million) in Hillsborough County per purchasing power class alpha. One dataset needs to be purchased (SID) https://www.hcup-us.ahrq.gov/db/state/siddbdocumentation.jsp 
   2) The purchasing power class is based on the median household income of each patient.
   
 Insurer data (TABLE 5):  
